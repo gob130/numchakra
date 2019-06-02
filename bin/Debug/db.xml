@@ -1,0 +1,1306 @@
+<DB>
+  <User id="1">
+    <FirstName>יעקבי</FirstName>
+    <LastName>נשר-סולן</LastName>
+    <BirthDay>Tuesday, November 11, 1958</BirthDay>
+    <FatherName>אבא</FatherName>
+    <MotherName>אמא</MotherName>
+    <City>חולון</City>
+    <Street>רחוב</Street>
+    <Building>1</Building>
+    <Appartment>0</Appartment>
+    <EMail>yaakobi999@gmail.com</EMail>
+    <Phones>052-4694122</Phones>
+    <Sex>Male</Sex>
+    <Application>נומרולוג</Application>
+    <PassedRect>Passed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="2">
+    <FirstName>עומר</FirstName>
+    <LastName>בר</LastName>
+    <BirthDay>1986-06-05 00:00:00</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="3">
+    <FirstName>שמואל אליה</FirstName>
+    <LastName>שרביט</LastName>
+    <BirthDay>1973-10-31 15:56:39</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="4">
+    <FirstName>אברהם</FirstName>
+    <LastName>זלמנוביץ</LastName>
+    <BirthDay>02/09/1964 11:11:22</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="6">
+    <FirstName>נטע</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>20/01/2018 14:02:27</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="7">
+    <FirstName>אריה</FirstName>
+    <LastName>אינשטיין</LastName>
+    <BirthDay>20/01/2018 14:03:11</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="9">
+    <FirstName>דנה</FirstName>
+    <LastName>כפיר</LastName>
+    <BirthDay>08/11/1968 16:40:42</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="10">
+    <FirstName>יעקבי</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 14:48:39</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="11">
+    <FirstName>אסף יוסף</FirstName>
+    <LastName>מקמיל</LastName>
+    <BirthDay>27/03/1976 15:57:09</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="10">
+    <FirstName>מורן</FirstName>
+    <LastName>הורן</LastName>
+    <BirthDay>22/03/1982 10:00:45</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="11">
+    <FirstName>אירית</FirstName>
+    <LastName>קרן</LastName>
+    <BirthDay>09/03/1982 19:20:19</BirthDay>
+    <FatherName>בועז</FatherName>
+    <MotherName>מלכה</MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="12">
+    <FirstName>משה</FirstName>
+    <LastName>וינטילטור</LastName>
+    <BirthDay>31/03/2018 17:29:20</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="13">
+    <FirstName>יעל מעיין</FirstName>
+    <LastName>ירדן</LastName>
+    <BirthDay>12/03/1973 19:15:17</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="14">
+    <FirstName>סלים</FirstName>
+    <LastName>דאו</LastName>
+    <BirthDay>01/01/1982 00:00:00</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="15">
+    <FirstName>כרמלה</FirstName>
+    <LastName>גונן</LastName>
+    <BirthDay>08/09/1955 08:58:30</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="16">
+    <FirstName>מיכל מזל</FirstName>
+    <LastName>עברון</LastName>
+    <BirthDay>12/08/1980 23:29:19</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="17">
+    <FirstName>שירלי</FirstName>
+    <LastName>פרנקו</LastName>
+    <BirthDay>10/09/1977 20:41:23</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="18">
+    <FirstName>
+    </FirstName>
+    <LastName>
+    </LastName>
+    <BirthDay>23/06/2018 09:47:21</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>No</ReachedMaster>
+  </User>
+  <User id="19">
+    <FirstName>יובל</FirstName>
+    <LastName>פלס</LastName>
+    <BirthDay>26/04/1998 10:22:24</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="20">
+    <FirstName>משה</FirstName>
+    <LastName>נחמיאס</LastName>
+    <BirthDay>25/04/1965 10:26:16</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="21">
+    <FirstName>ענת</FirstName>
+    <LastName>כהן</LastName>
+    <BirthDay>05/06/1965 10:28:10</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="22">
+    <FirstName>דוד</FirstName>
+    <LastName>צרנילס</LastName>
+    <BirthDay>23/06/1965 10:28:59</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="23">
+    <FirstName>סמי</FirstName>
+    <LastName>וסוסו</LastName>
+    <BirthDay>23/06/1972 10:29:59</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="24">
+    <FirstName>גיא</FirstName>
+    <LastName>פגטרנק</LastName>
+    <BirthDay>04/03/1987 13:03:04</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="25">
+    <FirstName>א</FirstName>
+    <LastName>א</LastName>
+    <BirthDay>01/01/2001 13:13:45</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="26">
+    <FirstName>
+    </FirstName>
+    <LastName>
+    </LastName>
+    <BirthDay>23/06/2018 13:19:05</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>No</ReachedMaster>
+  </User>
+  <User id="27">
+    <FirstName>
+    </FirstName>
+    <LastName>
+    </LastName>
+    <BirthDay>23/06/2018 13:21:49</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>No</ReachedMaster>
+  </User>
+  <User id="28">
+    <FirstName>עיעי</FirstName>
+    <LastName>עיעי</LastName>
+    <BirthDay>2/5/2000 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="29">
+    <FirstName>יעקבי טום</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="30">
+    <FirstName>יעקבי טום</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="31">
+    <FirstName>יעקבי</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="32">
+    <FirstName>סמדר</FirstName>
+    <LastName>חזן בן יוסף</LastName>
+    <BirthDay>11/7/1966 10:38:20 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="33">
+    <FirstName>יעקבי טום</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="34">
+    <FirstName>יעקבי</FirstName>
+    <LastName>נשר-סולן</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>אבא</FatherName>
+    <MotherName>אמא</MotherName>
+    <City>חולון</City>
+    <Street>רחוב</Street>
+    <Building>1</Building>
+    <Appartment>0</Appartment>
+    <EMail>yaakobi999@gmail.com</EMail>
+    <Phones>052-4694122</Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="35">
+    <FirstName>עומר</FirstName>
+    <LastName>בר</LastName>
+    <BirthDay>6/5/1986 12:11:12 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="36">
+    <FirstName>אסף יוסף</FirstName>
+    <LastName>מקמיל</LastName>
+    <BirthDay>3/27/1976 12:12:48 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="37">
+    <FirstName>אסף יוסף</FirstName>
+    <LastName>מקמיל</LastName>
+    <BirthDay>3/27/1976 12:20:47 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="38">
+    <FirstName>יוסף</FirstName>
+    <LastName>זכר</LastName>
+    <BirthDay>7/27/1964 12:26:49 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="39">
+    <FirstName>אליהו</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>10/11/1951 12:28:59 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="40">
+    <FirstName>חן</FirstName>
+    <LastName>שני</LastName>
+    <BirthDay>3/25/1984 3:32:16 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="41">
+    <FirstName>חן</FirstName>
+    <LastName>שני</LastName>
+    <BirthDay>3/25/1984 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="42">
+    <FirstName>עמית</FirstName>
+    <LastName>קמה</LastName>
+    <BirthDay>10/13/1974 3:35:04 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="43">
+    <FirstName>חן</FirstName>
+    <LastName>שני</LastName>
+    <BirthDay>3/25/1984 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="44">
+    <FirstName>סיוון</FirstName>
+    <LastName>שני</LastName>
+    <BirthDay>2/24/1985 3:42:19 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="45">
+    <FirstName>חן</FirstName>
+    <LastName>שני</LastName>
+    <BirthDay>3/25/1984 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="46">
+    <FirstName>עומר</FirstName>
+    <LastName>בר</LastName>
+    <BirthDay>5/6/1986 4:54:41 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="47">
+    <FirstName>עומר</FirstName>
+    <LastName>בר</LastName>
+    <BirthDay>6/5/1986 4:55:46 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="48">
+    <FirstName>יוסף</FirstName>
+    <LastName>זכר</LastName>
+    <BirthDay>7/27/1964 4:56:51 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="49">
+    <FirstName>אסף יוסף</FirstName>
+    <LastName>מקמיל</LastName>
+    <BirthDay>3/27/1976 4:58:19 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="50">
+    <FirstName>עומר</FirstName>
+    <LastName>בר</LastName>
+    <BirthDay>6/5/1986 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="51">
+    <FirstName>אליהו</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>10/11/1951 6:29:05 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="52">
+    <FirstName>אליהו</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>10/11/1951 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="53">
+    <FirstName>אילן</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>8/24/1970 6:45:09 PM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="54">
+    <FirstName>יעקב</FirstName>
+    <LastName>בן בסט</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>
+    </FatherName>
+    <MotherName>
+    </MotherName>
+    <City>
+    </City>
+    <Street>
+    </Street>
+    <Building>0</Building>
+    <Appartment>0</Appartment>
+    <EMail>
+    </EMail>
+    <Phones>
+    </Phones>
+    <Sex>Male</Sex>
+    <Application>
+    </Application>
+    <PassedRect>NotPassed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+  <User id="55">
+    <FirstName>יעקבי אבי</FirstName>
+    <LastName>נשר-סולן</LastName>
+    <BirthDay>11/11/1958 12:00:00 AM</BirthDay>
+    <FatherName>אבא</FatherName>
+    <MotherName>אמא</MotherName>
+    <City>חולון</City>
+    <Street>רחוב</Street>
+    <Building>1</Building>
+    <Appartment>0</Appartment>
+    <EMail>yaakobi999@gmail.com</EMail>
+    <Phones>052-4694122</Phones>
+    <Sex>Male</Sex>
+    <Application>נומרולוג</Application>
+    <PassedRect>Passed</PassedRect>
+    <ReachedMaster>Yes</ReachedMaster>
+  </User>
+</DB>

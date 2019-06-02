@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report name="דוח התאמה למכירות">
+  <DocPage name="1">
+    <Text font="David" size="21.5" bold="false" italic="false" underline="false" alignment="center">
+      נומרולוגיית הצ'אקרות   
+      התאמה למכירות עבור: _שם_ _שם_משפחה_
+      ת.ל. _תאריך_לידה_
+      לתאריך : _היום_
+    </Text>
+    <Image>_ראשי_</Image>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+  </DocPage>
+  <DocPage name="2">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      ייעודך: _ערך_ייעוד_
+
+      צ'אקרת הגרון מאפיינת את יכולת חשיבתך ושאיפותיך:
+      _צאקרה_3_
+    </Text>
+  </DocPage>
+  <DocPage name="3">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת התעסוקה העיקרית הגלומה בצ'אקרת המין והיצירה, מאפיינת את יכולתך לעסוק :</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_תעסוקה_ראשי_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בדיקה_חריגה_</Text>
+  </DocPage>
+  <DocPage name="4">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      המזל האסטרולוגי: _ערך_מזל_אסטרולוגי_
+
+      שמך הפרטי:  _ערך_שם_פרטי_
+
+      מפתך: _ערך_מפה_מאוזן_
+
+      _אנרגיות_גרון_ומיןויצירה_
+
+      _ערך_חשש_ופחד_
+
+      _ערך_חרדות_
+
+      _ערך_מפה_דיכאוני_
+    </Text>
+  </DocPage>
+  <DocPage name="5">
+    <Text font="David" size="18" bold="false" italic="false" underline="true" alignment="center">התאמה למכירות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת ההצלחה במכירות שלך מוערכת ב: _ערך_התאמה_למכירות_ . </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">על מנת שתצליח במכירות לאורך זמן (מעל חמש שנים) סיכויי ההתאמה למכירות שלך צריכים להיות מעל 80 אחוזים של התאמה</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_התאמה_למכירות_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_התאמה_קבוצתית_למכירות_</Text>
+  </DocPage>
+  <DocPage name="6">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">המלצות אישיות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_פרטים_אישיים_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="20" bold="true" italic="false" underline="false" alignment="center">_חתימה_</Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center">_תיאור_מקצועי_</Text>
+  </DocPage>
+</Report>

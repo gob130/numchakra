@@ -1,0 +1,50 @@
+INFO  2018-07-18 17:05:34,965    855ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-16 16:11:41,210   2361ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-16 16:11:52,214   1630ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 16:56:01,115    779ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 16:56:51,505    619ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 16:59:18,091    621ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 16:59:46,679  29210ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-21 16:59:47,290  29821ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-21 16:59:47,302  29833ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-21 16:59:47,302  29833ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-21 16:59:47,303  29834ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-21 16:59:47,307  29838ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-21 16:59:47,308  29839ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-21 16:59:47,311  29842ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-21 16:59:47,311  29842ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח ראשי.doc
+DEBUG 2018-08-21 16:59:51,140  33671ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\OMEGA\Omega\bin\Release], [Document Path: D:\Users\Owl\Desktop\יעקבי נשר-סולן - דוח ראשי.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2018-08-21 16:59:51,277  33807ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-21 16:59:51,287  33817ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\OMEGA\Omega\bin\Release\TempDir
+INFO  2018-08-21 16:59:51,288  33818ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-21 16:59:51,289  33819ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\OMEGA\Omega\bin\Release\TempDir] directory
+INFO  2018-08-21 16:59:51,296  33826ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-21 16:59:51,605  34135ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-21 16:59:51,721  34251ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-21 16:59:51,722  34252ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-21 16:59:51,756  34287ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-21 16:59:52,368  34898ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-21 16:59:52,368  34898ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-21 16:59:52,391  34921ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-21 16:59:52,399  34929ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-21 16:59:54,896  37426ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-21 16:59:56,056  38587ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-21 16:59:56,057  38588ms [PID: 1] NumChakra                        MoveNext                         - Spinner removed

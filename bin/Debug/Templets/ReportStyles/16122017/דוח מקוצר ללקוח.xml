@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report name="דוח מקוצר ללקוח">
+  <DocPage name="1">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">נומרולוגיית הצ'אקרות הדינמיות
+	דו"ח מקוצר ללקוח
+	עבור: _שם_ _שם_משפחה_ , ת.ל. _תאריך_לידה_ </Text>
+	<Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">ליום _היום_ </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> ייעודך: _ערך_ייעוד_
+
+	יכולת התעסוקה העיקרית : _תעסוקה_ראשי_ </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+	המזל האסטרולוגי: _ערך_מזל_אסטרולוגי_
+	
+	שמך הפרטי: _שם_ 
+	_ערך_שם_פרטי_ 
+	</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">מחזורי החיים
+
+	_מידע_מחזור_ראשון_
+
+	_מידע_מחזור_שני_
+
+	_מידע_מחזור_שלישי_
+
+	_מידע_מחזור_רביעי_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">כיום הינך בשנה אישית: _מספר_שנה_אישית_ המסתיימת ביום הולדתך הקרוב.
+	_ערך_שנה_אישית_
+
+	_מידע_שנים_אישיות_עתיד_2_</Text>
+	<Text font="David" size="18" bold="false" italic="false" underline="true" alignment="center">יכולת הצלחה עסקית</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת ההצלחה העסקית שלך מוערכת ב _ערך_הצלחה_עסקית_ . </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">על מנת שהעסק שלך יצליח וישרוד לאורך זמן (מעל חמש שנים) סיכויי ההצלחה העסקית שלך צריכים להיות מעל 80 אחוזים של הצלחה</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_הצלחה_עסקית_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">עסקים בשותפות</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">ערך ההצלחה בשותפות העסקית: _ערך_שותפות_עסקית_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_שותפות_עסקית_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="18" bold="false" italic="false" underline="true" alignment="center">התאמה זוגית</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">ההתאמה הזוגית שלך עם _פרטי_בן_זוג_ </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">ההתאמה הזוגית שלכם כיום מוערכת ב _ערך_הצלחה_זוגית_ .</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">על מנת שהזוגיות המאפשרת קשרי משפחה תתקיים לאורך זמן, נדרשת התאמה זוגית מעל 70%</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">פירוט ומסכנות:</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_הצלחה_זוגית_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="18" bold="false" italic="false" underline="true" alignment="center">צפי הצלחה בלימודים</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">צפי ההצלחה בלימודים מוערך בציון של _ערך_הצלחה_בלימודים_ .</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_הצלחה_בלימודים_</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">הצלחה ושפע לך ולבני משפחתך בכל מעשייך ושאיפותיך.</Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+	<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+	<Text font="David" size="22" bold="false" italic="false" underline="false" alignment="center">יעקבי נשר-סולן</Text>
+	<Text font="David" size="15" bold="false" italic="false" underline="false" alignment="center">אסטרולוג ונומרולוג בינלאומי</Text>
+  </DocPage>
+</Report>

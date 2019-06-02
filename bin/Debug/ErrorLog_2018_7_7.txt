@@ -1,0 +1,26 @@
+Error Occured On: שבת 07 יולי 2018 11:20:16
+אין אפשרות להפעיל את היישום
+
+   ב-  Microsoft.Office.Interop.Word.ApplicationClass.Activate()
+   ב-  Omega.Reports.WordWriter.FinishDoc() ב- D:\Users\Owl\Desktop\Omega\Omega\Reports\WordWriter.cs:שורה 371
+   ב-  Omega.Reports.ReportDataProvider.PrintReportFromXML(String XmlReportName) ב- D:\Users\Owl\Desktop\Omega\Omega\Reports\ReportDataProvider.cs:שורה 3974
+   ב-  Omega.MainForm.btnPrintFromXML_Click(Object sender, EventArgs e) ב- D:\Users\Owl\Desktop\Omega\Omega\MainForm.cs:שורה 860
+   ב-  System.Windows.Forms.Control.OnClick(EventArgs e)
+   ב-  System.Windows.Forms.Button.OnClick(EventArgs e)
+   ב-  System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   ב-  System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   ב-  System.Windows.Forms.Control.WndProc(Message& m)
+   ב-  System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   ב-  System.Windows.Forms.Button.WndProc(Message& m)
+   ב-  System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   ב-  System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   ב-  System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   ב-  System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   ב-  System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   ב-  System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   ב-  System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   ב-  System.Windows.Forms.Application.Run(Form mainForm)
+   ב-  Omega.Program.Main() ב- D:\Users\Owl\Desktop\Omega\Omega\Program.cs:שורה 122
+
+------------------ Error Message End ------------------
+

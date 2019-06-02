@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report name="דוח הצלחה עסקית">
+  <DocPage name="1">
+    <Text font="David" size="21.5" bold="false" italic="false" underline="false" alignment="center">
+      נומרולוגיית הצ'אקרות
+      תחזית הצלחה עסקית עבור: _שם_ _שם_משפחה_
+      ת.ל. _תאריך_לידה_
+      לתאריך : _היום_
+    </Text>
+    <Image>_ראשי_</Image>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+  </DocPage>
+  <DocPage name="2">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      ייעודך: _ערך_ייעוד_
+
+      צ'אקרת הגרון מאפיינת את יכולת חשיבתך ושאיפותיך:
+      _צאקרה_3_
+    </Text>
+  </DocPage>
+  <DocPage name="3">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת התעסוקה העיקרית הגלומה בצ'אקרת המין והיצירה, מאפיינת את יכולתך לעסוק :</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_תעסוקה_ראשי_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בדיקה_חריגה_</Text>
+  </DocPage>
+  <DocPage name="4">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      המזל האסטרולוגי: _ערך_מזל_אסטרולוגי_
+
+      שמך הפרטי:  _ערך_שם_פרטי_
+
+      מפתך: _ערך_מפה_מאוזן_
+
+      _אנרגיות_גרון_ומיןויצירה_
+
+      _ערך_חשש_ופחד_
+
+      _ערך_חרדות_
+
+      _ערך_מפה_דיכאוני_
+    </Text>
+  </DocPage>
+  <DocPage name="5">
+    <Text font="David" size="18" bold="false" italic="false" underline="true" alignment="center">הצלחה עסקית</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת ההצלחה העסקית שלך מוערכת ב: _ערך_הצלחה_עסקית_ . </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">על מנת שהעסק שלך יצליח וישרוד לאורך זמן (מעל חמש שנים) סיכויי ההצלחה העסקית שלך צריכים להיות מעל 80 אחוזים של הצלחה</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_הצלחה_עסקית_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">עסקים בשותפות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">ערך ההצלחה בשותפות העסקית: _ערך_שותפות_עסקית_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_שותפות_עסקית_</Text>
+  </DocPage>
+  <DocPage name="6">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">המלצות אישיות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <!--<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">על מנת להצליח בחייך עליך להגיע לייעודך ולעבור את התיקון האישי.</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מלל_המלצות_אישיות_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">אם ברצונך לשפר את סיכויי הצלחתך בזוגיות פנה ליעקבי לקבלת הסבר.</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">אם ברצונך להגדיל את השפע בחייך בתחומים החשובים לך פנה ליעקבי לקבלת הסבר.</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      לקבלת הסבר בנושא ההמלצות האישיות המופיעות כאן, פנה עכשיו ליעקבי במייל yaakobi999@gmail.com
+      או השאר פרטיך באתר נומרולוגיית הצ'אקרות הקלאסית http://classicchakranumerology.co.il/
+      או התקשר למספר 052-4694122
+    </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">הצלחה ושפע לך ולבני משפחתך בכל מעשייך ושאיפותיך.</Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center"></Text>-->
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_פרטים_אישיים_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="20" bold="true" italic="false" underline="false" alignment="center">_חתימה_</Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center">_תיאור_מקצועי_</Text>
+  </DocPage>
+</Report>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <DocPage name="1">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">לוגיית הצ'אקרות הדינאמיות עבור
+דו"ח מנהל - מומחה
+עבור: _שם_ _שם_משפחה_ , ת.ל. _תאריך_לידה_
+ליום _היום_ </Text>
+    <Image>_ראשי_</Image>
+  </DocPage>
+  <DocPage name="2">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">האדם הגיע לעולם עם ייעוד ותיקון.
+
+ייעודך: _ערך_ייעוד_
+
+על התיקון נדבר בסוף.
+
+צ'אקרת הגרון מאפיינת את יכולת חשיבתך ושאיפותיך: _צאקרה_3_
+
+כישורי התעסוקה שלך מורכבים מיכולת עיקרית המהווה 80% מכישוריך, ויכולת משנית המהווה 10% כפול 2 מכישוריך.
+
+א. יכולת התעסוקה העיקרית : _תעסוקה_ראשי_
+
+ב. יכולתת התעסוקה המשנית הלוגמה במזל האסטרולוגי שלך : _תעסוקה_משני_
+
+ג. יכולת התעסוקה המשנית הגלומה בשמך הפרטי: _תעסוקה_שם_פרטי_</Text>
+<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">צ'אקרת הבסיס : _צאקרה_7_
+
+צ'אקרת הכתר הוא יום לידתך בחודש: _צאקרה_1_</Text>
+  </DocPage>
+  <DocPage name="3">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">צ'אקרת הלב: _צאקרה_4_
+
+צ'אקרת העין השלישית: _צאקרה_2_
+
+המזל האסטרולוגי: _ערך_מזל_אסטרולוגי_
+
+שמך הפרטי: _שם_
+
+מבנה אישיותך המרכזי מורכב משלושה חלקים:
+_אישיות_ </Text>
+    <Image>C:\תוכנה נומרולוגיית הצאקרות הדינמיות\ChakraNumerology_HEB\Templets\ReportStyles\PersonalityRatio.png</Image>
+  </DocPage>
+  <DocPage name="4">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">שלושה דברים יאפשרו לך לצאת מכל משבר:
+א. מומלץ לך לפעול בהתאם לאיכויות צ'אקרת הבסיס אשר יקדמו ויוציאו אותך מהמשבר: _משבר_בסיס_
+ב. מומלץ לך לפעול בהתאם לאיכויות צ'אקרת הלב אשר יקדמו ויוציאו אותך מהמשבר: _משבר_לב_
+ג. מומלץ לך לפעול בהתאם לאיכויות שמך הפרטי אשר יקדמו ויוציאו אותך מהמשבר: _משבר_שם_פרטי_
+
+מפתך: _ערך_מפה_מאוזן_
+
+הערות כלליות: _ערך_חשש_ופחד_
+_ערך_חרדות_
+_ערך_מפה_דיכאוני_
+
+מפת פיתגורס הקמאית: _ערכי_פיתגורס_
+
+פתיחת צ'אקרות (למטפל): _ערכי_פתיחת_צאקרות_
+
+בריאות: _ערכי_בריאות_</Text>
+  </DocPage>
+  <DocPage name="5">
+    <Text font="Times New Roman" size="12" bold="false" italic="false" underline="false" alignment="right">מחזורי החיים
+
+_מידע_מחזור_ראשון_
+
+_מידע_מחזור_שני_
+
+_מידע_מחזור_שלישי_
+
+_מידע_מחזור_רביעי_</Text>
+  </DocPage>
+  <DocPage name="6">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">כיום הינך בשנה אישית: _מספר_שנה_אישית_ המסתיימת ביום הולדתך הקרוב.
+_ערך_שנה_אישית_
+
+_מידע_שנים_אישיות_עתיד_</Text>
+  </DocPage>
+  <DocPage name="7">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">כיום הינך בחודש אישי: _מספר_חודש_אישי_ המסתיים בסוף החודש הקרוב.
+_ערך_חודש_אישי_
+
+כיום הינך ביום אישי: _מספר_יום_אישי_ .
+_ערך_יום_אישי_</Text>
+  </DocPage>
+  <DocPage name="8">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">יכולת הצלחה עסקית
+
+יכולת ההצלחה העסקית שלך מוערכת ב _ערך_הצלחה_עסקית_ .
+על מנת שהעסק שלך יצליח וישרוד לאורך זמן (מעל חמש שנים) סיכויי ההצלחה העסקית שלך צריכים להיות מעל 80 אחוזים של הצלחה
+
+_מלל_הצלחה_עסקית_
+
+
+התאמה זוגית
+
+ההתאמה הזוגית שלך כיום מוערכת ב _ערך_הצלחה_זוגית_ .
+על מנת שהזוגיות המאפשרת קשרי משפחה תתקים לאורך זמן, נדרשת התאמה זוגית מעל 70%
+פירוט ומסכנות:
+_מלל_הצלחה_זוגית_
+
+
+צפי הצלחה בלימודים
+
+צפי ההצלחה בלימודים מוערך בציון של _ערך_הצלחה_בלימודים_
+_מלל_הצלחה_בלימודים_
+
+
+הפרעת קשב וריכוז
+
+קיימות אצלך _ערך_הפרעת_קשב_קל_ הפרעות קשב וריכוז קלות.
+קיימות אצלך _ערך_הפרעת_קשב_מורכב_ הפרעות קשב וריכוז מורכבות.
+_הפרעות_קשב_וריכוז_
+
+
+	</Text>
+  </DocPage>
+  <DocPage name="7.1">
+	  <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">בריאות</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">מצב בריאותך הכללי _בריאות_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בריאות_סיכום_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">בריאותך מורכבת ממספר תחומים והם: 
+	  
+	  צ'אקרת מקלעת השמש מאפיינת את התכונות הבסיסיות של הגוף לבריאות פיזית טובה/בינונית/חלשה: _תכונות_בסיסיות_לגוף_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">צ'אקרת המין והיצירה מאפיינת את יכולת גופך לשמור על בריאותך ולהבריא: _יכולת_לשמור_על_הבריאות_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">צ'אקרת המין והיצירה מאפיינת את יכולתך לטפל בעצמך במטרה להבריא: _יכולת_לטפל_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בריאות_שם_פרטי_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בריאות_שיא_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בריאות_שנה_אישית_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_בריאות_מזל_אסטרולוגי_</Text>
+	  <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">סוגי המחלות המאפיינות את גופך הן:
+	  _מחלות_</Text>
+  </DocPage>
+  <DocPage name="9">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">התיקון
+
+להלן המלצותיי לתיקון האישי:
+_ערך_תיקון_ראשי_</Text>
+  </DocPage>
+  <DocPage name="10">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">המלצות אישיות
+
+על מנת להצליח בחייך עליך להגיע לייעודך ולעבור את התיקון האישי.
+
+אם ברצונך לשפר את סיכויי הצלחתך בזוגיות פנה ליעקבי לקבלת הסבר.
+אם ברצונך להגדיל את השפע בחייך בתחומים החשובים לך פנה ליעקבי לקבלת הסבר.
+
+לקבלת הסבר בנושא ההמלצות האישיות המופיעות כאן, פנה עכשיו ליעקבי במייל yaakobi999@gmail.com
+	או השאר פרטיך באתר נומרולוגיית הצ'אקרות הדינמיות
+	http://www.chakra999.co.il/
+	או התקשר למספר 052-4694122
+
+הצלחה ושפע לך ולבני משפחתך בכל מעשייך ושאיפותיך.</Text>
+<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+<Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+<Text font="David" size="22" bold="false" italic="false" underline="false" alignment="center">יעקבי נשר-סולן</Text>
+<Text font="David" size="15" bold="false" italic="false" underline="false" alignment="center">אסטרולוג ונומרולוג בינלאומי</Text>
+  </DocPage>
+</Report>

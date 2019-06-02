@@ -1,0 +1,31 @@
+D:\Omega\Omega\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Omega\Omega\obj\x86\Debug\Omega.AboutBox.resources
+D:\Omega\Omega\obj\x86\Debug\Omega.MainForm.resources
+D:\Omega\Omega\obj\x86\Debug\Omega.Properties.Resources.resources
+D:\Omega\Omega\obj\x86\Debug\Omega.csproj.GenerateResource.Cache
+D:\Omega\Omega\bin\x86\Debug\DB.mdb
+D:\Omega\Omega\bin\x86\Debug\BLL.dll
+D:\Omega\Omega\bin\x86\Debug\BLL.pdb
+D:\Omega\Omega\bin\x86\Debug\Templets\ThisTemplet.dot
+D:\Omega\Omega\obj\x86\Debug\Omega.ReName.resources
+D:\Omega\Omega\bin\x86\Debug\Names\JuishBibleFemale.txt
+D:\Omega\Omega\bin\x86\Debug\Names\JuishBibleMale.txt
+D:\Omega\Omega\bin\x86\Debug\Names\ArabFemale.txt
+D:\Omega\Omega\bin\x86\Debug\Names\ArabMale.txt
+D:\Omega\Omega\bin\x86\Debug\Names\JuishFemale.txt
+D:\Omega\Omega\bin\x86\Debug\Names\JuishMale.txt
+D:\Omega\Omega\bin\x86\Debug\NumChakra.exe.config
+D:\Omega\Omega\bin\x86\Debug\NumChakra.exe
+D:\Omega\Omega\bin\x86\Debug\NumChakra.pdb
+D:\Omega\Omega\obj\x86\Debug\NumChakra.exe
+D:\Omega\Omega\obj\x86\Debug\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\x86\Debug\NumChakra.exe.config
+D:\Coding\C#\Omega\Omega\obj\x86\Debug\Interop.MSORUNLib.dll
+D:\Coding\C#\Omega\Omega\obj\x86\Debug\Omega.csproj.ResolveComReference.cache
+D:\Coding\C#\Omega\Omega\obj\x86\Debug\NumChakra.exe
+D:\Coding\C#\Omega\Omega\obj\x86\Debug\NumChakra.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\x86\Debug\NumChakra.exe.config
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\x86\Debug\Omega.csproj.ResolveComReference.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\x86\Debug\NumChakra.exe
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\x86\Debug\NumChakra.pdb

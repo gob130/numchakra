@@ -1,0 +1,1712 @@
+INFO  2018-07-11 08:40:46,682    716ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:41:32,381  46415ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 08:41:32,674  46708ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:41:32,689  46723ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 08:41:32,732  46766ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 08:41:32,736  46770ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 08:41:32,742  46776ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 08:41:32,746  46780ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אסף יוסף מקמיל - דוח ראשי.doc
+DEBUG 2018-07-11 08:41:36,162  50196ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\אסף יוסף מקמיל - דוח ראשי.doc], [FirstName: אסף יוסף], [LastName: מקמיל]
+INFO  2018-07-11 08:41:36,491  50525ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:41:36,505  50539ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 08:41:36,510  50544ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 08:41:36,514  50548ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 08:41:36,543  50577ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 08:41:36,549  50583ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 08:41:36,559  50593ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 08:41:37,206  51240ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 08:41:41,830  55863ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 08:41:43,789  57823ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 08:41:43,795  57829ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 08:48:47,440   1267ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:49:00,328  14155ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 08:49:00,629  14456ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:49:00,645  14472ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 08:49:00,651  14478ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 08:49:00,657  14484ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 08:49:00,669  14496ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 08:49:00,674  14501ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: עומר בר - דוח ראשי.doc
+DEBUG 2018-07-11 08:49:02,492  16319ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\עומר בר - דוח ראשי.doc], [FirstName: עומר], [LastName: בר]
+INFO  2018-07-11 08:49:02,850  16677ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:49:02,864  16690ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\TEMP
+INFO  2018-07-11 08:49:02,869  16695ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 08:49:02,874  16700ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\TEMP] directory
+INFO  2018-07-11 08:49:02,947  16773ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 08:49:02,952  16778ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 08:49:02,960  16786ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 08:49:03,573  17400ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 08:49:08,390  22217ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 08:49:10,060  23887ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 08:49:10,068  23895ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 08:49:57,708    712ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:50:07,565  10569ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 08:50:07,876  10879ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:50:07,890  10893ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 08:50:07,895  10899ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 08:50:07,900  10904ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 08:50:07,907  10911ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 08:50:07,913  10917ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: משה וינטילטור - דוח ראשי.doc
+DEBUG 2018-07-11 08:50:10,219  13222ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\משה וינטילטור - דוח ראשי.doc], [FirstName: משה], [LastName: וינטילטור]
+INFO  2018-07-11 08:50:10,568  13572ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:50:10,589  13593ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 08:50:10,594  13598ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 08:50:10,599  13603ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 08:50:10,623  13627ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 08:50:10,628  13632ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 08:50:10,644  13648ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 08:50:11,331  14335ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+ERROR 2018-07-11 08:50:11,596  14599ms [PID: 7] WordWriter                       TypeXml2Doc                      - System.Runtime.InteropServices.COMException (0x800A1420): שם זה אינו שם קובץ חוקי.
+נסה אחת או יותר מן הפעולות הבאות:
+* בדוק את הנתיב כדי לוודא שהוקלד נכון.
+* בחר קובץ מתוך רשימת הקבצים והתיקיות.
+   ב-  Microsoft.Office.Interop.Word.InlineShapes.AddPicture(String FileName, Object& LinkToFile, Object& SaveWithDocument, Object& Range)
+   ב-  Omega.Reports.WordWriter.TypeImage(String path2image) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 269
+   ב-  Omega.Reports.WordWriter.TypeXmlPage(XmlNode curPage) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 373
+   ב-  Omega.Reports.WordWriter.TypeXml2Doc(XmlDocument xmlDoc) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 334
+INFO  2018-07-11 08:50:14,330  17333ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 08:50:14,338  17341ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 08:51:45,956    686ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:51:58,096    693ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:52:07,159   9755ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 08:52:07,459  10056ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:52:07,473  10070ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 08:52:07,480  10077ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 08:52:07,486  10083ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 08:52:07,493  10090ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 08:52:07,499  10096ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: סלים דאו - דוח ראשי.doc
+DEBUG 2018-07-11 08:52:09,789  12386ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\סלים דאו - דוח ראשי.doc], [FirstName: סלים], [LastName: דאו]
+INFO  2018-07-11 08:52:10,212  12809ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:52:10,227  12824ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 08:52:10,233  12830ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 08:52:10,239  12836ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 08:52:10,263  12860ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 08:52:10,268  12865ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 08:52:10,277  12874ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 08:52:10,878  13475ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 08:52:15,807  18404ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 08:52:17,673  20270ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 08:52:17,679  20276ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 08:52:55,402    735ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 08:53:05,275  10608ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 08:53:05,564  10897ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:53:05,578  10911ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 08:53:05,583  10916ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 08:53:05,590  10923ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 08:53:05,596  10929ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 08:53:05,603  10936ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: משה וינטילטור - דוח ראשי.doc
+DEBUG 2018-07-11 08:53:08,717  14051ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\משה וינטילטור - דוח ראשי.doc], [FirstName: משה], [LastName: וינטילטור]
+INFO  2018-07-11 08:53:09,122  14455ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 08:53:09,139  14472ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 08:53:09,145  14478ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 08:53:09,150  14483ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 08:53:09,171  14505ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 08:53:09,176  14510ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 08:53:09,185  14519ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 08:53:09,821  15155ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 08:53:14,607  19941ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 08:53:16,530  21863ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 08:53:16,536  21869ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:12:57,553    875ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:13:12,391  15713ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:13:12,691  16013ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:13:12,705  16026ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:13:12,709  16030ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:13:12,714  16035ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:13:12,721  16043ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:13:12,728  16050ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אסף יוסף מקמיל - דוח ראשי.doc
+DEBUG 2018-07-11 09:13:15,870  19192ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\אסף יוסף מקמיל - דוח ראשי.doc], [FirstName: אסף יוסף], [LastName: מקמיל]
+INFO  2018-07-11 09:13:16,220  19542ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:13:16,234  19556ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:13:16,239  19561ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:13:16,244  19566ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:13:16,266  19588ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:13:16,271  19593ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:13:16,280  19602ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:13:16,982  20303ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 09:13:21,664  24986ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 09:13:23,522  26844ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:13:23,530  26852ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:14:09,646    638ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:14:20,419  11412ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:14:20,702  11694ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:14:20,715  11707ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:14:20,720  11712ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:14:20,725  11717ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:14:20,732  11724ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:14:20,742  11734ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: סלים דאו - דוח ראשי.doc
+DEBUG 2018-07-11 09:14:23,457  14449ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\סלים דאו - דוח ראשי.doc], [FirstName: סלים], [LastName: דאו]
+INFO  2018-07-11 09:14:23,815  14808ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:14:23,834  14827ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:14:23,842  14835ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:14:23,847  14840ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:14:23,869  14862ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:14:23,874  14867ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:14:23,882  14875ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:14:24,477  15470ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+ERROR 2018-07-11 09:14:24,827  15820ms [PID: 7] WordWriter                       TypeXml2Doc                      - System.Runtime.InteropServices.COMException (0x800A1420): שם זה אינו שם קובץ חוקי.
+נסה אחת או יותר מן הפעולות הבאות:
+* בדוק את הנתיב כדי לוודא שהוקלד נכון.
+* בחר קובץ מתוך רשימת הקבצים והתיקיות.
+   ב-  Microsoft.Office.Interop.Word.InlineShapes.AddPicture(String FileName, Object& LinkToFile, Object& SaveWithDocument, Object& Range)
+   ב-  Omega.Reports.WordWriter.TypeImage(String path2image) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 270
+   ב-  Omega.Reports.WordWriter.TypeXmlPage(XmlNode curPage) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 374
+   ב-  Omega.Reports.WordWriter.TypeXml2Doc(XmlDocument xmlDoc) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 335
+INFO  2018-07-11 09:14:27,332  18325ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:14:27,343  18336ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:17:39,031   1088ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:17:50,760  12816ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:17:51,060  13117ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:17:51,073  13130ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:17:51,079  13136ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:17:51,084  13141ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:17:51,091  13148ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:17:51,095  13152ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: דנה כפיר - דוח ראשי.doc
+DEBUG 2018-07-11 09:17:54,740  16797ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\דנה כפיר - דוח ראשי.doc], [FirstName: דנה], [LastName: כפיר]
+INFO  2018-07-11 09:17:55,134  17190ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:17:55,151  17207ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:17:55,157  17213ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:17:55,162  17218ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:17:55,183  17239ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:17:55,188  17244ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:17:55,196  17252ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:17:55,810  17867ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 09:18:00,491  22547ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 09:18:02,176  24233ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:18:02,183  24240ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:21:33,384   1194ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:21:42,725  10535ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:21:43,009  10819ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:21:43,023  10833ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:21:43,027  10837ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:21:43,032  10842ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:21:43,040  10850ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:21:43,056  10866ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אירית קרן - דוח ראשי.doc
+DEBUG 2018-07-11 09:21:44,622  12432ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\אירית קרן - דוח ראשי.doc], [FirstName: אירית], [LastName: קרן]
+INFO  2018-07-11 09:21:44,959  12769ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:21:44,972  12782ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:21:44,976  12786ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:21:44,981  12791ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:21:45,002  12812ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:21:45,007  12817ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:21:45,017  12827ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:21:45,622  13432ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 09:21:50,696  18506ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 09:21:52,268  20078ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:21:52,275  20085ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:22:44,566   1142ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:22:55,594  12169ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:22:55,874  12449ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:22:55,892  12467ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:22:55,899  12474ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:22:55,904  12479ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:22:55,911  12486ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:22:55,922  12497ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעל מעיין ירדן - דוח ראשי.doc
+DEBUG 2018-07-11 09:22:58,713  15288ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\יעל מעיין ירדן - דוח ראשי.doc], [FirstName: יעל מעיין], [LastName: ירדן]
+INFO  2018-07-11 09:22:59,133  15708ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:22:59,151  15726ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:22:59,156  15731ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:22:59,161  15736ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:22:59,182  15757ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:22:59,189  15764ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:22:59,198  15773ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:22:59,829  16404ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 09:23:04,937  21513ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 09:23:06,680  23255ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:23:06,688  23263ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:25:32,192   1288ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:25:42,162  11258ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:25:42,458  11554ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:25:42,471  11567ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:25:42,479  11575ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:25:42,486  11582ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:25:42,493  11589ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:25:42,498  11594ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אירית קרן - דוח ראשי.doc
+DEBUG 2018-07-11 09:25:45,878  14974ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\אירית קרן - דוח ראשי.doc], [FirstName: אירית], [LastName: קרן]
+INFO  2018-07-11 09:25:46,234  15330ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:25:46,247  15343ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:25:46,252  15348ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:25:46,257  15353ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:25:46,278  15374ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:25:46,283  15379ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:25:46,294  15390ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:25:46,923  16019ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 09:25:51,755  20851ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 09:25:53,606  22702ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:25:53,614  22710ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:30:03,241    676ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:30:12,305   9740ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:30:12,585  10020ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:30:12,598  10033ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:30:12,604  10039ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:30:12,614  10049ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:30:12,656  10091ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:30:12,683  10118ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: שמואל אליה שרביט - דוח ראשי.doc
+DEBUG 2018-07-11 09:30:15,720  13155ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\שמואל אליה שרביט - דוח ראשי.doc], [FirstName: שמואל אליה], [LastName: שרביט]
+INFO  2018-07-11 09:30:16,104  13539ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:30:16,118  13553ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:30:16,123  13558ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:30:16,129  13564ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:30:16,153  13588ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:30:16,157  13592ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:30:16,166  13601ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:30:16,772  14207ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+ERROR 2018-07-11 09:30:17,065  14500ms [PID: 8] WordWriter                       TypeXml2Doc                      - System.Runtime.InteropServices.COMException (0x800A1420): שם זה אינו שם קובץ חוקי.
+נסה אחת או יותר מן הפעולות הבאות:
+* בדוק את הנתיב כדי לוודא שהוקלד נכון.
+* בחר קובץ מתוך רשימת הקבצים והתיקיות.
+   ב-  Microsoft.Office.Interop.Word.InlineShapes.AddPicture(String FileName, Object& LinkToFile, Object& SaveWithDocument, Object& Range)
+   ב-  Omega.Reports.WordWriter.TypeImage(String path2image) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 270
+   ב-  Omega.Reports.WordWriter.TypeXmlPage(XmlNode curPage) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 374
+   ב-  Omega.Reports.WordWriter.TypeXml2Doc(XmlDocument xmlDoc) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 335
+INFO  2018-07-11 09:30:18,915  16350ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:30:18,923  16358ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 09:35:19,553    704ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 09:35:29,367  10517ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 09:35:29,664  10814ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:35:29,681  10831ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 09:35:29,686  10836ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 09:35:29,692  10842ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 09:35:29,700  10850ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 09:35:29,710  10860ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: כרמלה גונן - דוח ראשי.doc
+DEBUG 2018-07-11 09:35:31,705  12855ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\כרמלה גונן - דוח ראשי.doc], [FirstName: כרמלה], [LastName: גונן]
+INFO  2018-07-11 09:35:32,010  13160ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 09:35:32,022  13172ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 09:35:32,027  13177ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 09:35:32,034  13184ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 09:35:32,057  13207ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 09:35:32,063  13213ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 09:35:32,071  13221ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 09:35:32,653  13803ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+ERROR 2018-07-11 09:35:32,963  14113ms [PID: 8] WordWriter                       TypeXml2Doc                      - System.Runtime.InteropServices.COMException (0x800A1420): שם זה אינו שם קובץ חוקי.
+נסה אחת או יותר מן הפעולות הבאות:
+* בדוק את הנתיב כדי לוודא שהוקלד נכון.
+* בחר קובץ מתוך רשימת הקבצים והתיקיות.
+   ב-  Microsoft.Office.Interop.Word.InlineShapes.AddPicture(String FileName, Object& LinkToFile, Object& SaveWithDocument, Object& Range)
+   ב-  Omega.Reports.WordWriter.TypeImage(String path2image) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 270
+   ב-  Omega.Reports.WordWriter.TypeXmlPage(XmlNode curPage) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 374
+   ב-  Omega.Reports.WordWriter.TypeXml2Doc(XmlDocument xmlDoc) ב- D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\Reports\WordWriter.cs:שורה 335
+INFO  2018-07-11 09:35:34,502  15652ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 09:35:34,509  15659ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 10:41:01,544   1835ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 10:41:12,416  12707ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 10:41:12,845  13136ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 10:41:12,860  13151ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 10:41:12,866  13157ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 10:41:12,871  13162ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 10:41:12,881  13171ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 10:41:12,887  13177ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אסף יוסף מקמיל - דוח ראשי.doc
+DEBUG 2018-07-11 10:41:14,927  15217ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\אסף יוסף מקמיל - דוח ראשי.doc], [FirstName: אסף יוסף], [LastName: מקמיל]
+INFO  2018-07-11 10:41:15,338  15628ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 10:41:15,351  15641ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 10:41:15,356  15646ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 10:41:15,361  15651ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 10:41:15,381  15671ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 10:41:15,388  15678ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 10:41:15,397  15687ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 10:41:16,211  16502ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 10:41:21,672  21962ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 10:41:23,792  24083ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 10:41:23,797  24088ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:36:21,279   1199ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:37:15,878  55798ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:37:18,791  58711ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:37:18,805  58725ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:37:18,812  58732ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:37:18,817  58737ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:37:18,826  58746ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:37:18,830  58750ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: עומר בר - דוח ראשי.doc
+DEBUG 2018-07-11 14:37:21,213  61133ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\עומר בר - דוח ראשי.doc], [FirstName: עומר], [LastName: בר]
+INFO  2018-07-11 14:37:21,532  61453ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:37:21,545  61466ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:37:21,549  61470ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:37:21,554  61475ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:37:21,587  61507ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:37:21,592  61512ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:37:21,600  61520ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:37:22,383  62303ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:37:27,794  67714ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:37:31,090  71010ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:37:31,099  71019ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:38:43,013    667ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:38:53,240  10894ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:38:53,535  11189ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:38:53,548  11202ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:38:53,553  11207ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:38:53,558  11212ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:38:53,565  11219ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:38:53,569  11224ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: עומר בר - דוח ראשי.doc
+DEBUG 2018-07-11 14:38:56,468  14122ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\עומר בר - דוח ראשי.doc], [FirstName: עומר], [LastName: בר]
+INFO  2018-07-11 14:38:56,840  14494ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:38:56,853  14507ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:38:56,858  14512ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:38:56,863  14517ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:38:56,885  14539ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:38:56,890  14544ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:38:56,899  14553ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:38:57,565  15219ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:39:02,738  20392ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:39:04,707  22361ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:39:04,712  22366ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:40:20,818    822ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:40:31,947  11952ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:40:32,224  12229ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:40:32,238  12243ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:40:32,244  12249ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:40:32,249  12254ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:40:32,256  12261ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:40:32,266  12271ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: שמואל אליה שרביט - דוח ראשי.doc
+DEBUG 2018-07-11 14:40:34,042  14046ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\שמואל אליה שרביט - דוח ראשי.doc], [FirstName: שמואל אליה], [LastName: שרביט]
+INFO  2018-07-11 14:40:34,346  14351ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:40:34,361  14366ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:40:34,366  14371ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:40:34,372  14377ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:40:34,393  14398ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:40:34,398  14403ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:40:34,407  14412ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:40:35,142  15147ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:40:40,533  20538ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:40:42,494  22499ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:40:42,500  22505ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:42:08,737    673ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:42:19,212  11147ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:42:19,496  11432ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:42:19,513  11449ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:42:19,518  11454ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:42:19,523  11459ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:42:19,530  11466ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:42:19,536  11472ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: משה וינטילטור - דוח ראשי.doc
+DEBUG 2018-07-11 14:42:21,491  13427ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\משה וינטילטור - דוח ראשי.doc], [FirstName: משה], [LastName: וינטילטור]
+INFO  2018-07-11 14:42:21,827  13763ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:42:21,840  13776ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:42:21,845  13781ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:42:21,849  13785ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:42:21,871  13807ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:42:21,877  13813ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:42:21,886  13822ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:42:22,487  14422ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:42:27,817  19753ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:42:29,436  21372ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:42:29,445  21380ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:43:52,563    748ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:44:03,512  11697ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:44:03,788  11973ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:44:03,801  11986ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:44:03,806  11991ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:44:03,812  11997ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:44:03,823  12008ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:44:03,828  12013ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: משה וינטילטור - דוח ראשי.doc
+DEBUG 2018-07-11 14:44:07,000  15185ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\משה וינטילטור - דוח ראשי.doc], [FirstName: משה], [LastName: וינטילטור]
+INFO  2018-07-11 14:44:07,324  15509ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:44:07,337  15522ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:44:07,341  15526ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:44:07,347  15532ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:44:07,369  15554ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:44:07,374  15559ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:44:07,383  15568ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:44:07,985  16171ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:44:13,246  21431ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:44:15,052  23237ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:44:15,058  23243ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 14:54:47,065    657ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 14:54:58,133  11725ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 14:54:58,457  12048ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:54:58,472  12063ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 14:54:58,477  12068ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 14:54:58,482  12073ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 14:54:58,489  12080ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 14:54:58,493  12084ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: סלים דאו - דוח ראשי.doc
+DEBUG 2018-07-11 14:55:00,042  13634ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\סלים דאו - דוח ראשי.doc], [FirstName: סלים], [LastName: דאו]
+INFO  2018-07-11 14:55:00,384  13976ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 14:55:00,400  13992ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 14:55:00,405  13997ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 14:55:00,410  14002ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 14:55:00,432  14024ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 14:55:00,437  14029ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 14:55:00,446  14038ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 14:55:01,027  14619ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 14:55:06,267  19859ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 14:55:07,831  21423ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 14:55:07,839  21431ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 15:03:21,996    677ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 15:03:31,865  10546ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 15:03:32,161  10842ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 15:03:32,175  10856ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 15:03:32,180  10861ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 15:03:32,187  10868ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 15:03:32,194  10875ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 15:03:32,202  10883ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעל מעיין ירדן - דוח ראשי.doc
+DEBUG 2018-07-11 15:03:34,203  12884ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owner\Desktop\יעל מעיין ירדן - דוח ראשי.doc], [FirstName: יעל מעיין], [LastName: ירדן]
+INFO  2018-07-11 15:03:34,546  13227ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 15:03:34,977  13658ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir
+INFO  2018-07-11 15:03:35,004  13685ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 15:03:35,008  13690ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 15:03:35,032  13714ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 15:03:35,036  13718ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 15:03:35,045  13727ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 15:03:35,640  14321ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 15:03:35,780  14462ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-07-11 15:03:35,785  14467ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-07-11 15:03:35,814  14495ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-07-11 15:03:36,677  15358ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-07-11 15:03:36,682  15363ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-07-11 15:03:36,951  15633ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-07-11 15:03:37,137  15818ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-07-11 15:03:41,063  19744ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 15:03:42,914  21595ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 15:03:42,922  21603ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-11 17:45:39,145    600ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-11 17:45:53,576  15032ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-07-11 17:45:54,261  15716ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 17:45:54,269  15724ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-07-11 17:45:54,270  15725ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-07-11 17:45:54,270  15725ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-07-11 17:45:54,272  15727ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-07-11 17:45:54,274  15729ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: שירלי פרנקו - דוח ראשי.doc
+DEBUG 2018-07-11 17:45:55,854  17309ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\OMEGA\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\שירלי פרנקו - דוח ראשי.doc], [FirstName: שירלי], [LastName: פרנקו]
+INFO  2018-07-11 17:45:55,979  17434ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-07-11 17:45:55,986  17441ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\OMEGA\Omega\bin\Debug\TempDir
+INFO  2018-07-11 17:45:55,994  17449ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-07-11 17:45:55,994  17449ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2018-07-11 17:45:56,004  17459ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-07-11 17:45:56,005  17460ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-07-11 17:45:56,008  17463ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-07-11 17:45:56,371  17826ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-07-11 17:45:56,463  17918ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-07-11 17:45:56,463  17918ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-07-11 17:45:56,490  17945ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-07-11 17:45:56,921  18376ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-07-11 17:45:56,922  18377ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-07-11 17:45:56,947  18402ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-07-11 17:45:56,955  18410ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-07-11 17:45:58,804  20259ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-07-11 17:46:00,338  21793ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-07-11 17:46:00,339  21794ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-07-15 22:51:16,111   1414ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-15 22:52:12,509    624ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-18 17:06:35,653    992ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-18 17:06:44,196    643ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-19 16:05:55,365    838ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-24 18:22:03,157    909ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:20:39,438    943ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:35:16,349   3122ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:36:49,856   1818ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:38:31,374   2225ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:40:38,508   4190ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 19:41:20,220   1338ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 20:42:12,938   2709ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 20:55:15,991   1893ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 21:00:04,771   2749ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 21:00:34,681   1932ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 21:09:31,661   1867ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 21:10:49,868   2914ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-07-28 21:10:58,793   3802ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-15 21:11:01,120   2278ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-15 21:12:29,737   2377ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-15 21:12:51,833  24473ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-15 21:12:52,499  25139ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-15 21:12:52,510  25150ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-15 21:12:52,510  25150ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-15 21:12:52,511  25151ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-15 21:12:52,535  25175ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-15 21:12:52,537  25177ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-15 21:12:52,539  25179ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-15 21:12:52,539  25179ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אירית קרן - דוח ראשי.doc
+DEBUG 2018-08-15 21:12:55,048  27688ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\אירית קרן - דוח ראשי.doc], [FirstName: אירית], [LastName: קרן]
+INFO  2018-08-15 21:12:55,184  27825ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-15 21:12:55,197  27837ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-15 21:12:55,213  27853ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-15 21:12:55,214  27854ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-15 21:12:55,235  27876ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-15 21:12:55,700  28340ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-15 21:12:55,786  28426ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-15 21:12:55,788  28428ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-15 21:12:55,809  28449ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-15 21:12:56,262  28903ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-15 21:12:56,262  28903ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-15 21:12:56,290  28931ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-15 21:12:56,301  28942ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-15 21:12:58,062  30702ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-15 21:12:59,444  32085ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-15 21:12:59,446  32087ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-15 21:13:09,454  42094ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-15 21:13:09,589  42229ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-15 21:13:09,592  42233ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-15 21:13:09,592  42233ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-15 21:13:09,593  42234ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-15 21:13:09,595  42236ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-15 21:13:09,597  42238ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-15 21:13:09,597  42238ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-15 21:13:09,598  42239ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: אירית קרן - דוח ראשי.doc
+DEBUG 2018-08-15 21:13:12,533  45174ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\אירית קרן - דוח ראשי.doc], [FirstName: אירית], [LastName: קרן]
+INFO  2018-08-15 21:13:12,666  45306ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-15 21:13:12,669  45309ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-15 21:13:12,669  45309ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-15 21:13:12,670  45310ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-15 21:13:12,679  45320ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-15 21:13:12,847  45487ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-15 21:13:12,894  45535ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-15 21:13:12,896  45536ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-15 21:13:12,925  45565ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-15 21:13:13,244  45884ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-15 21:13:13,245  45885ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-15 21:13:13,255  45895ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-15 21:13:13,264  45904ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-15 21:13:14,643  47284ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-15 21:13:15,732  48373ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-15 21:13:15,734  48374ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-16 16:06:21,852   1988ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-16 16:06:32,600  12736ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-16 16:06:33,176  13312ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:06:33,185  13321ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-16 16:06:33,185  13321ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-16 16:06:33,186  13322ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-16 16:06:33,189  13325ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-16 16:06:33,190  13326ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-16 16:06:33,192  13328ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-16 16:06:33,193  13329ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: נטע בן בסט - דוח ראשי.doc
+DEBUG 2018-08-16 16:06:40,073  20209ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\מקוצר.doc], [FirstName: נטע], [LastName: בן בסט]
+INFO  2018-08-16 16:06:40,205  20341ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:06:40,214  20350ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-16 16:06:40,214  20350ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-16 16:06:40,215  20351ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-16 16:06:40,226  20362ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-16 16:06:40,681  20817ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-16 16:06:40,765  20901ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:06:40,767  20903ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:06:40,788  20924ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:06:41,181  21317ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:06:41,181  21317ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-16 16:06:41,206  21342ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:06:41,214  21350ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:06:42,830  22966ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-16 16:06:44,246  24382ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-16 16:06:44,247  24383ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-16 16:06:53,478  33614ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-16 16:06:53,628  33764ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:06:53,632  33768ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-16 16:06:53,632  33768ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-16 16:06:53,632  33768ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-16 16:06:53,634  33770ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-16 16:06:53,635  33771ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-16 16:06:53,636  33772ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-16 16:06:53,636  33772ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: נטע בן בסט - דוח ראשי.doc
+DEBUG 2018-08-16 16:07:01,415  41551ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\מקוצר.doc], [FirstName: נטע], [LastName: בן בסט]
+INFO  2018-08-16 16:07:01,570  41706ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:07:01,573  41709ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-16 16:07:01,573  41709ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-16 16:07:01,574  41710ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-16 16:07:01,583  41719ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-16 16:07:01,728  41864ms [PID: 9] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-16 16:07:01,780  41916ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:07:01,780  41916ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:07:01,803  41939ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:07:02,213  42349ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:07:02,213  42349ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-16 16:07:02,222  42358ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:07:02,230  42366ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:07:03,730  43866ms [PID: 9] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-16 16:07:04,857  44993ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-16 16:07:04,857  44993ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-16 16:07:12,494  52630ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-16 16:07:12,637  52773ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:07:12,640  52776ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-16 16:07:12,641  52777ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-16 16:07:12,641  52777ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-16 16:07:12,643  52779ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-16 16:07:12,644  52780ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-16 16:07:12,645  52781ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-16 16:07:12,645  52781ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: נטע בן בסט - דוח ראשי.doc
+DEBUG 2018-08-16 16:07:15,470  55606ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\נורמלי.doc], [FirstName: נטע], [LastName: בן בסט]
+INFO  2018-08-16 16:07:15,636  55772ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-16 16:07:15,639  55775ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-16 16:07:15,640  55776ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-16 16:07:15,640  55776ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-16 16:07:15,648  55784ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-16 16:07:15,837  55973ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-16 16:07:15,883  56019ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:07:15,884  56020ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:07:15,903  56039ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:07:16,200  56336ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-16 16:07:16,201  56337ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-16 16:07:16,210  56346ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-16 16:07:16,217  56353ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-16 16:07:17,648  57784ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-16 16:07:18,689  58825ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-16 16:07:18,689  58825ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-21 16:59:09,402    732ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 19:15:46,646    667ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 19:38:47,134    664ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-21 19:39:19,068  32598ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-21 19:39:19,667  33197ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-21 19:39:19,675  33205ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-21 19:39:19,675  33205ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-21 19:39:19,676  33206ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-21 19:39:19,679  33209ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-21 19:39:19,680  33210ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-21 19:39:19,682  33212ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-21 19:39:19,683  33213ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח ראשי.doc
+INFO  2018-08-21 19:39:49,122  62652ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-21 19:39:49,264  62794ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-21 19:39:49,267  62797ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-21 19:39:49,268  62798ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-21 19:39:49,268  62798ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-21 19:39:49,270  62800ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-21 19:39:49,272  62802ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-21 19:39:49,272  62802ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-21 19:39:49,273  62803ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח ראשי.doc
+DEBUG 2018-08-21 19:39:50,729  64259ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\יעקבי נשר-סולן - דוח ראשי.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2018-08-21 19:39:50,859  64389ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-21 19:39:50,864  64394ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-21 19:39:50,864  64394ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-21 19:39:50,865  64395ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-21 19:39:50,883  64412ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-21 19:39:51,051  64581ms [PID: 8] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-21 19:39:51,111  64641ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-21 19:39:51,113  64643ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-21 19:39:51,140  64670ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-21 19:39:51,502  65032ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-21 19:39:51,502  65032ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-21 19:39:51,526  65056ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-21 19:39:51,535  65064ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-21 19:39:53,070  66600ms [PID: 8] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-21 19:39:54,234  67764ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-21 19:39:54,239  67769ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2018-08-22 18:48:10,234    985ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2018-08-22 18:48:22,103  12854ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-22 18:48:22,335  13086ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-22 18:48:22,343  13094ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-22 18:48:22,343  13094ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-22 18:48:22,344  13095ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-22 18:48:22,348  13099ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-22 18:48:22,350  13101ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-22 18:48:22,352  13103ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-22 18:48:37,415  28166ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: עומר בר - דוח ראשי-מקוצר.doc
+INFO  2018-08-22 18:49:02,194  52945ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2018-08-22 18:49:02,445  53196ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-22 18:49:02,448  53199ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2018-08-22 18:49:02,449  53200ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2018-08-22 18:49:02,449  53200ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2018-08-22 18:49:02,451  53202ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2018-08-22 18:49:02,453  53204ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2018-08-22 18:49:02,453  53204ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2018-08-22 18:49:02,453  53204ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: עומר בר - דוח ראשי.doc
+DEBUG 2018-08-22 18:49:06,107  56858ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug], [Document Path: D:\Users\Owl\Desktop\עומר בר - דוח ראשי.doc], [FirstName: עומר], [LastName: בר]
+INFO  2018-08-22 18:49:06,248  56999ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2018-08-22 18:49:06,378  57129ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir
+INFO  2018-08-22 18:49:06,379  57130ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2018-08-22 18:49:06,380  57131ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\TempDir] directory
+INFO  2018-08-22 18:49:06,418  57169ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2018-08-22 18:49:06,641  57392ms [PID: 7] WordWriter                       TypeXml2Doc                      - Filling document with data from XML file
+INFO  2018-08-22 18:49:06,718  57469ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-22 18:49:06,719  57470ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-22 18:49:06,746  57497ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-22 18:49:07,187  57938ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from application
+INFO  2018-08-22 18:49:07,187  57938ms [PID: 1] WordWriter                       <CreateImageFromApp>b__0         - Creating image file from life cycles
+INFO  2018-08-22 18:49:07,216  57967ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Creating bitmap object
+INFO  2018-08-22 18:49:07,225  57977ms [PID: 1] WordWriter                       <CreateImageFromApp>b__1         - Bitmap object saved successfuly
+INFO  2018-08-22 18:49:09,070  59821ms [PID: 7] WordWriter                       TypeXml2Doc                      - Document filled
+INFO  2018-08-22 18:49:10,227  60978ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Try to remove spinner from form controls
+INFO  2018-08-22 18:49:10,229  60980ms [PID: 1] NumChakra                        RemoveSpinnerUC                  - Spinner removed
+INFO  2019-01-14 08:25:04,749   5544ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 10:48:40,832   6808ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 10:59:21,159   4809ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:00:28,354   4835ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:05:08,114   3906ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:45:40,725   5320ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:53:16,093   5719ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:53:52,338   4052ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:54:45,174   3849ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 11:58:45,218   4037ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:02:05,042   4658ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:03:02,476   3938ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:19:15,882   4598ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:20:10,997   4000ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:23:30,773   4583ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:26:01,081   4573ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:30:38,073   4684ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:36:05,618   3933ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:44:48,269   6266ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:49:12,062   5653ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 12:55:57,930   4983ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 13:03:46,289   4158ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 13:10:20,795   2450ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 13:22:03,288   4847ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:36:53,031   6154ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:45:44,193   5561ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:50:22,460   4147ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:53:14,423   6055ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:54:47,950   4530ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 17:57:37,937   4916ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:09:36,753   5230ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:29:07,782   3746ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:31:11,441   3642ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:34:05,073   3647ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:41:37,106   3806ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:42:34,710   3617ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:44:00,495   3634ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:47:13,493   3623ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 21:54:16,183   3602ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:08:53,081   3828ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:11:52,679   3949ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:22:37,561   3995ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:24:03,965   3953ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:24:55,799   3709ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:43:25,745   4824ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:53:19,309   4839ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-14 22:57:26,759   4152ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 09:22:34,534   6507ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 09:52:57,575   5452ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 09:56:25,516   4214ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 09:59:34,514   4216ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:00:19,694   4419ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:02:31,435   4311ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:11:10,402   4964ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:17:22,569   5080ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:19:44,855   4377ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:30:58,948   4713ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 10:43:04,542   5186ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:29:35,939   7486ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:32:50,108   5765ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:33:39,858   6234ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:34:44,407   5795ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:36:34,267   5148ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:38:40,863   8539ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 11:41:27,170   5010ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:11:07,910   7768ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:19:11,205   4899ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:19:32,571   5082ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:20:31,348   4581ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:26:44,450   4192ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 12:31:58,565   4162ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:09:14,247   5793ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:10:35,732   4843ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:12:13,826   4280ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:20:54,591   5218ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:23:47,217   4386ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:24:50,873   4116ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:27:26,496   5269ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:31:27,172   3950ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:34:03,395   5398ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:40:23,068   5022ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-01-25 15:42:14,365   5371ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 16:54:34,799   5489ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:14:16,733   5143ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:16:04,123   3327ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:22:41,978   4926ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:25:34,698 177646ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-02-14 17:25:36,785 179734ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:25:36,834 179783ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-02-14 17:25:36,836 179785ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-02-14 17:25:36,837 179786ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-02-14 17:25:36,870 179819ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-02-14 17:25:36,873 179822ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח אבחון ללקוח] report
+INFO  2019-02-14 17:25:36,876 179825ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-02-14 17:25:36,877 179826ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח אבחון ללקוח.doc
+DEBUG 2019-02-14 17:25:50,172 193120ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug], [Document Path: C:\Users\cshani\Downloads\יעקבי נשר-סולן - דוח אבחון ללקוח.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2019-02-14 17:25:52,199 195148ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:25:52,248 195197ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir
+INFO  2019-02-14 17:25:52,250 195199ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2019-02-14 17:25:52,251 195200ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2019-02-14 17:25:52,294 195243ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2019-02-14 17:36:24,939   4552ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:36:59,968  39582ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-02-14 17:37:02,032  41645ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:37:02,061  41674ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-02-14 17:37:02,062  41675ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-02-14 17:37:02,063  41676ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-02-14 17:37:02,092  41705ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-02-14 17:37:02,095  41708ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח אבחון ללקוח] report
+INFO  2019-02-14 17:37:02,098  41711ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-02-14 17:37:02,100  41713ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח אבחון ללקוח.doc
+INFO  2019-02-14 17:39:14,821   3486ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:39:26,336  15001ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-02-14 17:39:28,335  17001ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:39:28,359  17025ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-02-14 17:39:28,360  17026ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-02-14 17:39:28,361  17027ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-02-14 17:39:28,371  17037ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-02-14 17:39:28,375  17041ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח אבחון ללקוח] report
+INFO  2019-02-14 17:39:28,379  17045ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-02-14 17:39:28,381  17047ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח אבחון ללקוח.doc
+DEBUG 2019-02-14 17:39:31,339  20004ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug], [Document Path: C:\Users\cshani\Downloads\יעקבי נשר-סולן - דוח אבחון ללקוח.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2019-02-14 17:39:33,351  22017ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:39:33,368  22034ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir
+INFO  2019-02-14 17:39:33,371  22037ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2019-02-14 17:39:33,373  22039ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2019-02-14 17:39:33,411  22077ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2019-02-14 17:40:17,283   3894ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:40:32,057  18668ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-02-14 17:40:34,015  20626ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:40:34,057  20668ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-02-14 17:40:34,059  20670ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-02-14 17:40:34,061  20672ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-02-14 17:40:34,069  20680ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-02-14 17:40:34,074  20685ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח ראשי] report
+INFO  2019-02-14 17:40:34,077  20688ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-02-14 17:40:34,079  20690ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח ראשי.doc
+DEBUG 2019-02-14 17:40:36,424  23035ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug], [Document Path: C:\Users\cshani\Downloads\יעקבי נשר-סולן - דוח ראשי.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2019-02-14 17:40:38,428  25039ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:40:38,446  25057ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir
+INFO  2019-02-14 17:40:38,450  25061ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2019-02-14 17:40:38,452  25063ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2019-02-14 17:40:38,494  25105ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2019-02-14 17:42:41,584   3683ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 17:42:54,737  16836ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-02-14 17:42:56,758  18857ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:42:56,806  18905ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-02-14 17:42:56,807  18906ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-02-14 17:42:56,809  18908ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-02-14 17:42:56,819  18918ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-02-14 17:42:56,823  18922ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח אבחון ללקוח] report
+INFO  2019-02-14 17:42:56,826  18924ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-02-14 17:42:56,827  18925ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי נשר-סולן - דוח אבחון ללקוח.doc
+DEBUG 2019-02-14 17:42:58,807  20906ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug], [Document Path: C:\Users\cshani\Downloads\יעקבי נשר-סולן - דוח אבחון ללקוח.doc], [FirstName: יעקבי], [LastName: נשר-סולן]
+INFO  2019-02-14 17:43:00,787  22886ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-02-14 17:43:00,822  22920ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir
+INFO  2019-02-14 17:43:00,827  22925ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2019-02-14 17:43:00,829  22927ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2019-02-14 17:43:00,861  22960ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2019-02-14 18:28:54,744   4025ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 18:31:50,701   4732ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 18:34:13,329   4788ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 18:35:31,962   3853ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 18:38:20,685   4942ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 18:56:53,334   3531ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 19:02:05,059   3500ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 19:10:25,380   4305ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-14 19:15:01,970   3697ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 09:38:48,875   8358ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 09:46:49,359   5833ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 09:50:40,902   7181ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 09:55:49,992   7226ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 09:58:53,599   6378ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:01:10,764   6614ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:03:26,472   8238ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:04:38,618   4203ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:16:01,590   9339ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:19:56,848   4715ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:32:16,517   7007ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:34:44,241   6912ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:40:23,521   4451ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:51:47,000   5502ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 10:53:21,154   4341ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:06:35,067   5095ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:13:24,152   5781ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:19:11,920   7731ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:25:32,898   7731ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:37:53,547   5918ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:50:46,185   4328ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 11:58:14,597   5539ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:34:22,754   5589ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:35:35,765   5440ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:36:44,325   3979ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:39:11,198   5059ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:52:58,397   8461ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:56:36,065   5233ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 12:58:16,705   4823ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:06:58,244   5827ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:09:47,444   4781ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:17:17,890   5485ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:19:09,133   5239ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:21:09,685   5509ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:21:48,666   4998ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:25:37,959   6840ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:28:59,663   6393ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:40:16,338   5761ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:43:11,282   4571ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 13:55:56,406   6564ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 14:03:22,470   5475ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 14:12:09,193   4146ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 14:30:11,688   4915ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 14:31:39,680   4960ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 14:54:46,265   7328ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:03:19,216   5963ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:19:25,345   5612ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:19:52,081   5941ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:21:03,305   5177ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:28:56,629   6435ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-02-21 15:37:03,686   8100ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 11:22:09,846   3949ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 11:34:11,200   4228ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 11:50:41,235   5488ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 12:13:07,163   3932ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 12:14:05,117   3705ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 12:16:53,289   4585ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 12:24:17,430   3777ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 12:25:58,895   3524ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:03:20,953   5145ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:17:38,783   4609ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:20:14,447   3969ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:24:55,298   5125ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:33:10,755   4380ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:34:24,758   4056ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:35:40,124   5194ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:37:31,003   4237ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:38:16,579   4136ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:43:50,811   4082ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 13:59:18,290   4044ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:03:07,664   3868ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:24:53,119   4480ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:26:32,437   3785ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:29:17,549   4236ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:34:06,297   4899ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:36:38,536   3685ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:38:06,588   3996ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:39:58,219   4287ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:42:48,291   4714ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:44:03,166   4680ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:45:47,813   4311ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:47:04,692   4036ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 14:50:45,012   4271ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 15:03:16,818   4317ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 15:05:04,054   5941ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-11 15:06:51,994   3093ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-03-23 15:19:44,388   4024ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 21:17:19,616  31795ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 21:17:38,407  10662ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 21:26:14,369   6024ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 21:27:43,563   5150ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 21:29:34,558   5969ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 22:26:42,808   8413ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started
+INFO  2019-04-18 22:38:34,741 720346ms [PID: 1] NumChakra                        MoveNext                         - Try to check registered Office Word object
+INFO  2019-04-18 22:38:37,398 723004ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-04-18 22:38:37,458 723063ms [PID: 1] NumChakra                        MoveNext                         - Office word object successfully registered
+INFO  2019-04-18 22:38:37,460 723065ms [PID: 1] NumChakra                        MoveNext                         - Prepare reports
+INFO  2019-04-18 22:38:37,462 723067ms [PID: 1] NumChakra                        InitSpinnerUC                    - Initializing Spinner controls
+INFO  2019-04-18 22:38:37,486 723091ms [PID: 1] NumChakra                        InitSpinnerUC                    - Add spinner to group
+INFO  2019-04-18 22:38:37,495 723100ms [PID: 1] NumChakra                        MoveNext                         - Prepare [דוח שנה אישית] report
+INFO  2019-04-18 22:38:37,505 723110ms [PID: 1] NumChakra                        MoveNext                         - Selecting file location
+INFO  2019-04-18 22:38:37,511 723116ms [PID: 1] NumChakra                        MoveNext                         - Selected filename is: יעקבי אבי נשר-סולן - דוח שנה אישית.doc
+DEBUG 2019-04-18 22:38:47,663 733268ms [PID: 1] NumChakra                        MoveNext                         - Creating WordWriter object: [ApplicationMainDir: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug], [Document Path: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\שרון\תמונות\יעקבי אבי נשר-סולן - דוח שנה אישית.doc], [FirstName: יעקבי אבי], [LastName: נשר-סולן]
+INFO  2019-04-18 22:38:49,736 735341ms [PID: 1] WordWriter                       .ctor                            - WordWriter object created...
+INFO  2019-04-18 22:38:49,761 735366ms [PID: 1] WordWriter                       .ctor                            - Try to create directory: C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir
+INFO  2019-04-18 22:38:49,767 735372ms [PID: 1] WordWriter                       .ctor                            - Created
+INFO  2019-04-18 22:38:49,769 735374ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Try to set permissions on [C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\TempDir] directory
+INFO  2019-04-18 22:38:49,821 735426ms [PID: 1] AppSettings                      AddPremissions2SpecificFolder    - Permissions successfully set
+INFO  2019-05-01 20:51:50,697  15282ms [PID: 1] NumChakra                        .ctor                            - 
+
+
+NumChakra Session Started

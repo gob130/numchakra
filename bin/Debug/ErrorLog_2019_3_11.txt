@@ -1,0 +1,335 @@
+Error Occured On: Monday, March 11, 2019 1:24:45 PM
+Value of '1/1/0001 12:00:00 AM' is not valid for 'Value'. 'Value' should be between 'MinDate' and 'MaxDate'.
+Parameter name: Value
+
+   at System.Windows.Forms.DateTimePicker.set_Value(DateTime value)
+   at Omega.MainForm.cmdLoad_Click(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1468
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 1:33:32 PM
+Index was outside the bounds of the array.
+
+   at Omega.MainForm.NumericalCalc1() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4159
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1937
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 1:35:00 PM
+Index was outside the bounds of the array.
+
+   at Omega.MainForm.NumericalCalc1() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4159
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1937
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 1:36:29 PM
+Index was outside the bounds of the array.
+
+   at Omega.MainForm.NumericalCalc1() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4159
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1937
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 1:38:04 PM
+Index was outside the bounds of the array.
+
+   at Omega.MainForm.NumericalCalc1() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4159
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1937
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:27:39 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4355
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:30:52 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4357
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:34:46 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4356
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:37:11 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4356
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:38:52 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4356
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:40:11 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4356
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+
+Error Occured On: Monday, March 11, 2019 2:42:58 PM
+Input string was not in a correct format.
+
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at BLL.Calc.GetCorrectNumberFromSplitedString(String[] nums) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\BLL\BLL\Calc.cs:line 1970
+   at Omega.MainForm.DynamicChakraOpening() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 4356
+   at Omega.MainForm.runCalc() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 1985
+   at Omega.MainForm.cmdRun_Click_1(Object sender, EventArgs e) in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\MainForm.cs:line 2315
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Omega.Program.Main() in C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\Program.cs:line 122
+
+------------------ Error Message End ------------------
+

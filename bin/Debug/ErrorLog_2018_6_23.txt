@@ -1,0 +1,26 @@
+Error Occured On: שבת 23 יוני 2018 10:53:23
+יעד הפעלה התריע על חריג.
+
+   ב-  System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   ב-  System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   ב-  System.Delegate.DynamicInvokeImpl(Object[] args)
+   ב-  System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   ב-  System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   ב-  System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ב-  System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   ב-  System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   ב-  System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   ב-  System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   ב-  System.Windows.Forms.Control.WndProc(Message& m)
+   ב-  System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   ב-  System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   ב-  System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   ב-  System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   ב-  System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   ב-  System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   ב-  System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   ב-  System.Windows.Forms.Application.Run(Form mainForm)
+   ב-  Omega.Program.Main() ב- D:\Users\Owner\Desktop\Omega\Omega\Program.cs:שורה 122
+
+------------------ Error Message End ------------------
+

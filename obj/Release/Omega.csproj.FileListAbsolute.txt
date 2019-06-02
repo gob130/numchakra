@@ -1,0 +1,254 @@
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.exe
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.pdb
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\BLL.dll
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\BLL.pdb
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\ResolveAssemblyReference.cache
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.AboutBox.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.MainForm.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.Cache
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.exe
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.exe
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.exe
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\BLL.dll
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\BLL.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\ResolveAssemblyReference.cache
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.AboutBox.resources
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.MainForm.resources
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.Cache
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.exe.config
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\DB.mdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Release\Omega.exe.config
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\Omega.exe.config
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.exe
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\DB.mdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\Omega.exe
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\Omega.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\BLL.dll
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Release\BLL.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.AboutBox.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.MainForm.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.Cache
+D:\Coding\C#\Omega\Omega\bin\Release\BLL.dll
+D:\Coding\C#\Omega\Omega\bin\Release\ErrorLogger.dll
+D:\Coding\C#\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Coding\C#\Omega\Omega\bin\Release\office.dll
+D:\Coding\C#\Omega\Omega\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Coding\C#\Omega\Omega\bin\Release\BLL.pdb
+D:\Coding\C#\Omega\Omega\bin\Release\ErrorLogger.pdb
+D:\Coding\C#\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\Coding\C#\Omega\Omega\bin\Release\office.xml
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Omega\Omega\obj\Release\Interop.MSORUNLib.dll
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.csproj.ResolveComReference.cache
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.AboutBox.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.MainForm.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.Objects.frmGeneralInput.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.ReName.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.frmReoprtDef.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.Reports.frmReportCreationcs.resources
+D:\Coding\C#\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.Cache
+D:\Coding\C#\Omega\Omega\obj\Release\NumChakra.TrustInfo.xml
+D:\Coding\C#\Omega\Omega\obj\Release\NumChakra.exe.manifest
+D:\Coding\C#\Omega\Omega\obj\Release\NumChakra.application
+D:\Coding\C#\Omega\Omega\obj\Release\NumChakra.exe
+D:\Coding\C#\Omega\Omega\obj\Release\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\Release\NumChakra.exe.config
+D:\Coding\C#\Omega\Omega\bin\Release\Names\JuishBibleFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Names\JuishBibleMale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Names\ArabFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Names\ArabMale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Names\JuishFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Names\JuishMale.txt
+D:\Coding\C#\Omega\Omega\bin\Release\Templets\ThisTemplet.dot
+D:\Coding\C#\Omega\Omega\bin\Release\NumChakra.exe.manifest
+D:\Coding\C#\Omega\Omega\bin\Release\NumChakra.application
+D:\Coding\C#\Omega\Omega\bin\Release\NumChakra.exe
+D:\Coding\C#\Omega\Omega\bin\Release\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\Release\Interop.MSORUNLib.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\JuishBibleFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\JuishBibleMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\ArabFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\ArabMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Templets\ThisTemplet.dot
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\JuishFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Names\JuishMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\NumChakra.exe.config
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\NumChakra.application
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\NumChakra.exe
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\NumChakra.pdb
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\adodb.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\BLL.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\VsWebSite.Interop90.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\office.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\VsWebSite.Interop.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\EnvDTE.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\stdole.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\BLL.pdb
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\Users\Owner\Desktop\Omega\Omega\bin\Release\office.xml
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.csprojAssemblyReference.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Interop.Shell32.dll
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.csproj.ResolveComReference.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.AboutBox.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.MainForm.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.ReName.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.frmReoprtDef.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.ucSpinner.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\NumChakra.TrustInfo.xml
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\NumChakra.application
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\Omega.csproj.CopyComplete
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\NumChakra.exe
+D:\Users\Owner\Desktop\Omega\Omega\obj\Release\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\JuishBibleFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\JuishBibleMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\ArabFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\ArabMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\JuishFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Names\JuishMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Templets\ThisTemplet.dot
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\NumChakra.exe.config
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\NumChakra.application
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\NumChakra.exe
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\adodb.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\BLL.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\VsWebSite.Interop90.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\office.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\VsWebSite.Interop.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\EnvDTE.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\stdole.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\BLL.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\office.xml
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.csprojAssemblyReference.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Interop.Shell32.dll
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.csproj.ResolveComReference.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.AboutBox.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.MainForm.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.ReName.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.frmReoprtDef.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.ucSpinner.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\NumChakra.TrustInfo.xml
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\NumChakra.application
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\Omega.csproj.CopyComplete
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\NumChakra.exe
+D:\Users\Owl\Desktop\Omega\Omega\obj\Release\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\log4net.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\JuishBibleFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\JuishBibleMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\ArabFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\ArabMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\JuishFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Names\JuishMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Templets\ThisTemplet.dot
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\NumChakra.exe.config
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\NumChakra.application
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\NumChakra.exe
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\NumChakra.pdb
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\adodb.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\BLL.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\log4net.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\VsWebSite.Interop90.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\office.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\VsWebSite.Interop.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\EnvDTE.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\stdole.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\BLL.pdb
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Release\office.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.csprojAssemblyReference.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Interop.Shell32.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.csproj.ResolveComReference.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.AboutBox.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.MainForm.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.Properties.Resources.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.ReName.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.frmReoprtDef.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.ucSpinner.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.csproj.GenerateResource.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\NumChakra.TrustInfo.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\NumChakra.application
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\Omega.csproj.CopyComplete
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\NumChakra.exe
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Release\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Framework.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Release\Framework.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\JuishBibleFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\JuishBibleMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\ArabFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\ArabMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\JuishFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Names\JuishMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Templets\ThisTemplet.dot
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\NumChakra.exe.config
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\NumChakra.exe.manifest
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\NumChakra.application
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\NumChakra.exe
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\NumChakra.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\adodb.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\BLL.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Framework.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\log4net.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\VsWebSite.Interop90.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\VsWebSite.Interop.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\EnvDTE.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\stdole.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\BLL.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Release\Framework.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.csprojAssemblyReference.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Interop.Shell32.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.csproj.ResolveComReference.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.AboutBox.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.MainForm.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.Objects.frmGeneralInput.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.Objects.qnaPickWorkType.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.Properties.Resources.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.ReName.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.frmReoprtDef.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.Reports.frmReportCreationcs.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.ucSpinner.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.csproj.GenerateResource.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.csproj.CoreCompileInputs.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\NumChakra.TrustInfo.xml
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\NumChakra.exe.manifest
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\NumChakra.application
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\Omega.csproj.CopyComplete
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\NumChakra.exe
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Release\NumChakra.pdb

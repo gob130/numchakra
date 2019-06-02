@@ -1,0 +1,408 @@
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\Omega.exe
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\Omega.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.exe
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\BLL.dll
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\BLL.pdb
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+F:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.MainForm.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.exe
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.pdb
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\Omega.exe
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\Omega.pdb
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\BLL.dll
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\BLL.pdb
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.MainForm.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\Omega.exe.config
+G:\Documents\_Coding\Dot.Net\C#\Omega\Omega\bin\Debug\DB.mdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\Omega.exe.config
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.exe
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\DB.mdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\Omega.exe
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\Omega.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\BLL.dll
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\bin\Debug\BLL.pdb
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.MainForm.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+C:\Users\SEE_DVLP\Desktop\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+D:\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Omega\Omega\bin\Debug\DB.mdb
+D:\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Omega\Omega\bin\Debug\BLL.dll
+D:\Omega\Omega\bin\Debug\BLL.pdb
+D:\Omega\Omega\obj\Debug\ResolveAssemblyReference.cache
+D:\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+D:\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\Debug\BLL.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\ErrorLogger.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\office.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\BLL.pdb
+D:\Coding\C#\Omega\Omega\bin\Debug\ErrorLogger.pdb
+D:\Coding\C#\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Coding\C#\Omega\Omega\bin\Debug\office.xml
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Omega\Omega\obj\Debug\Interop.MSORUNLib.dll
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+D:\Coding\C#\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Coding\C#\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Coding\C#\Omega\Omega\obj\Debug\NumChakra.application
+D:\Coding\C#\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Coding\C#\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Coding\C#\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Coding\C#\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Coding\C#\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Coding\C#\Omega\Omega\bin\Debug\NumChakra.application
+D:\Coding\C#\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Coding\C#\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Coding\C#\Omega\Omega\bin\Debug\Interop.MSORUNLib.dll
+D:\Coding\C#\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Coding\C#\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Coding\C#\Omega\Omega\bin\Debug\Interop.Shell32.dll
+D:\Devs2\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Devs2\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Devs2\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Devs2\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Devs2\Omega\Omega\bin\Debug\NumChakra.application
+D:\Devs2\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Devs2\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Devs2\Omega\Omega\bin\Debug\adodb.dll
+D:\Devs2\Omega\Omega\bin\Debug\BLL.dll
+D:\Devs2\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Devs2\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\Devs2\Omega\Omega\bin\Debug\office.dll
+D:\Devs2\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Devs2\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\Devs2\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\Devs2\Omega\Omega\bin\Debug\stdole.dll
+D:\Devs2\Omega\Omega\bin\Debug\BLL.pdb
+D:\Devs2\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Devs2\Omega\Omega\bin\Debug\office.xml
+D:\Devs2\Omega\Omega\obj\Debug\Omega.csprojResolveAssemblyReference.cache
+D:\Devs2\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Devs2\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Devs2\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\Devs2\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+D:\Devs2\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\Devs2\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Devs2\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Devs2\Omega\Omega\obj\Debug\NumChakra.application
+D:\Devs2\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Devs2\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\DEVS2\OM\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\DEVS2\OM\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\DEVS2\OM\Omega\Omega\bin\Debug\NumChakra.application
+D:\DEVS2\OM\Omega\Omega\bin\Debug\NumChakra.exe
+D:\DEVS2\OM\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\DEVS2\OM\Omega\Omega\bin\Debug\adodb.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\BLL.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\office.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\stdole.dll
+D:\DEVS2\OM\Omega\Omega\bin\Debug\BLL.pdb
+D:\DEVS2\OM\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\DEVS2\OM\Omega\Omega\bin\Debug\office.xml
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.Cache
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\DEVS2\OM\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\DEVS2\OM\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\DEVS2\OM\Omega\Omega\obj\Debug\NumChakra.application
+D:\DEVS2\OM\Omega\Omega\obj\Debug\NumChakra.exe
+D:\DEVS2\OM\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\DEVS2\OM\Omega\Omega\obj\Debug\Omega.csprojResolveAssemblyReference.cache
+D:\Devs2\OM\Omega\Omega\obj\Debug\Omega.csproj.CopyComplete
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\NumChakra.application
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\adodb.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\BLL.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\office.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\stdole.dll
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\BLL.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\office.xml
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\NumChakra.application
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.csproj.CopyComplete
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\obj\Debug\Omega.csprojAssemblyReference.cache
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\NumChakra.application
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\adodb.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\BLL.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\office.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\stdole.dll
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\BLL.pdb
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Users\Owner\Desktop\Omega\Omega\bin\Debug\office.xml
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.csprojAssemblyReference.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\NumChakra.application
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\Omega.csproj.CopyComplete
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Users\Owner\Desktop\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\NumChakra.application
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\adodb.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\BLL.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\office.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\stdole.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\BLL.pdb
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Users\Owl\Desktop\xxx\Omega\Omega\bin\Debug\office.xml
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.csprojAssemblyReference.cache
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.cache
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\NumChakra.application
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\Omega.csproj.CopyComplete
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Users\Owl\Desktop\xxx\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\Omega\Omega\bin\Debug\log4net.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\JuishBibleFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\JuishBibleMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\ArabFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\ArabMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\JuishFemale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Names\JuishMale.txt
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Templets\ThisTemplet.dot
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\NumChakra.exe.config
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\NumChakra.application
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\NumChakra.exe
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\NumChakra.pdb
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\adodb.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\BLL.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\log4net.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\VsWebSite.Interop90.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\office.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\VsWebSite.Interop.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\EnvDTE.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\stdole.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\BLL.pdb
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\bin\Debug\office.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.csprojAssemblyReference.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Interop.Shell32.dll
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.AboutBox.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.MainForm.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.Properties.Resources.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.ReName.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.frmReoprtDef.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.ucSpinner.resources
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.csproj.GenerateResource.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\NumChakra.TrustInfo.xml
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\NumChakra.exe.manifest
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\NumChakra.application
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\Omega.csproj.CopyComplete
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\NumChakra.exe
+D:\Users\Owner\Desktop\OMEGAXX\Omega\Omega\obj\Debug\NumChakra.pdb
+D:\Users\Owl\Desktop\OMEGA\Omega\bin\Debug\Framework.dll
+D:\Users\Owl\Desktop\OMEGA\Omega\bin\Debug\Framework.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\JuishBibleFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\JuishBibleMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\ArabFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\ArabMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\JuishFemale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Names\JuishMale.txt
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Templets\ThisTemplet.dot
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\NumChakra.exe.config
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\NumChakra.exe.manifest
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\NumChakra.application
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\NumChakra.exe
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\NumChakra.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\adodb.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\BLL.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Framework.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\log4net.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\VsWebSite.Interop90.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\VsWebSite.Interop.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\EnvDTE.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\stdole.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\BLL.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\bin\Debug\Framework.pdb
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.csprojAssemblyReference.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Interop.Shell32.dll
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.csproj.ResolveComReference.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.AboutBox.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.MainForm.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.Objects.frmGeneralInput.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.Objects.qnaPickWorkType.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.Properties.Resources.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.ReName.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.frmReoprtDef.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.Reports.frmReportCreationcs.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.ucSpinner.resources
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.csproj.GenerateResource.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.csproj.CoreCompileInputs.cache
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\NumChakra.TrustInfo.xml
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\NumChakra.exe.manifest
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\NumChakra.application
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\Omega.csproj.CopyComplete
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\NumChakra.exe
+C:\Users\cshani\Desktop\elysolutioncompany\שרון וקובי_רדיו ונומורולוגיה\קובי ושרון\Software\OMEGA20190112v0751\OMEGA\Omega\obj\Debug\NumChakra.pdb

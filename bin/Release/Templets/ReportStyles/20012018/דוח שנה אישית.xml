@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report name="דוח שנה אישית">
+  <DocPage name="1">
+    <Text font="David" size="21.5" bold="false" italic="false" underline="false" alignment="center">
+      נומרולוגיית הצ'אקרות הדינאמיות עבור:
+      _שם_ _שם_משפחה_
+      ת.ל. _תאריך_לידה_
+      לתאריך : _היום_
+    </Text>
+    <Image>_ראשי_</Image>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+  </DocPage>
+  <DocPage name="2">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+
+      ייעודך: _ערך_ייעוד_
+
+      מפתך: _ערך_מפה_מאוזן_
+    </Text>
+  </DocPage>
+  <DocPage name="3">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">מחזורי החיים</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_מידע_מחזור_נוכחי_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      כיום הינך בשנה אישית: _מספר_שנה_אישית_ המסתיימת ביום הולדתך הקרוב.
+      _ערך_שנה_אישית_
+    </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"> </Text>
+  </DocPage>
+  <DocPage name="4">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">המלצות אישיות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_פרטים_אישיים_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="20" bold="true" italic="false" underline="false" alignment="center">_חתימה_</Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center">_תיאור_מקצועי_</Text>
+  </DocPage>
+</Report>

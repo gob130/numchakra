@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report name="דוח צ'אקרת היקום - מזל אסטרולוגי">
+  <DocPage name="1">
+    <Text font="David" size="21.5" bold="false" italic="false" underline="false" alignment="center">
+      נומרולוגיית הצ'אקרות
+    </Text>
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">
+      מאפייני צ'אקרת היקום - מזלך האסטרולוגי: _שם_ _שם_משפחה_
+    </Text>
+    <Text font="David" size="21.5" bold="false" italic="false" underline="false" alignment="center">
+      ת.ל. _תאריך_לידה_
+      לתאריך : _היום_
+    </Text>
+    <Image>_ראשי_</Image>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+  </DocPage>
+  <DocPage name="2">
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      ייעודך: _ערך_ייעוד_
+
+      צ'אקרת הגרון מאפיינת את יכולת חשיבתך ושאיפותיך:
+      _צאקרה_3_
+    </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right"> </Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">
+      המזל האסטרולוגי: _ערך_מזל_אסטרולוגי_
+
+      מפתך: _ערך_מפה_מאוזן_
+
+      _אנרגיות_גרון_ומיןויצירה_
+
+      _ערך_חשש_ופחד_
+
+      _ערך_חרדות_
+
+      _ערך_מפה_דיכאוני_
+    </Text>
+  </DocPage>
+  <DocPage name="3">
+    <Text font="David" size="18" bold="false" italic="false" underline="false" alignment="center">המלצות אישיות</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="right">_פרטים_אישיים_</Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="12" bold="false" italic="false" underline="false" alignment="center"></Text>
+    <Text font="David" size="20" bold="true" italic="false" underline="false" alignment="center">_חתימה_</Text>
+    <Text font="David" size="12" bold="true" italic="false" underline="false" alignment="center">_תיאור_מקצועי_</Text>
+  </DocPage>
+</Report>
